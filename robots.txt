@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://drivemadplayonline.github.io/sitemap.xml
